@@ -1,0 +1,57 @@
+html{
+    background-color: #a0a0a0;
+}
+.container{
+    width: 500px;   
+    min-height: 100vh;
+    background-color:#eaeaea ;
+    border-radius: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+#netmask{
+    width: 50px;
+    text-align: center;
+    padding-left:0 ;
+    padding-right:0 ;
+}
+.bevit{
+    border:2px solid black;
+    font-size:1.75em;
+    padding:.25em .5em .3125em;
+    border-radius:.25em;
+    background: transparent;
+    margin: 5px;
+}
+#subnet{
+    width: 348px;
+}
+.vlan{
+    height: 20px;
+    width: 150px;
+    text-align: center  ;
+    font-size: small ;
+}
+#apply {
+    margin-top: 5px;
+  background: #5E5DF0;
+  border-radius: 999px;
+  box-shadow: #5E5DF0 0 10px 20px -10px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  cursor: pointer;
+  font-family: Inter,Helvetica,"Apple Color Emoji","Segoe UI Emoji",NotoColorEmoji,"Noto Color Emoji","Segoe UI Symbol","Android Emoji",EmojiSymbols,-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue","Noto Sans",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  opacity: 1;
+  outline: 0 solid transparent;
+  padding: 8px 18px;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+  width: fit-content;
+  word-break: break-word;
+  border: 0;
+}
